@@ -1,0 +1,16 @@
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.exe
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.deps.json
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.runtimeconfig.json
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.runtimeconfig.dev.json
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.dll
+D:\BridgeLabz\LineComp\LineComp\LineComp\bin\Debug\net5.0\LineComp.pdb
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.csproj.AssemblyReference.cache
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.AssemblyInfoInputs.cache
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.AssemblyInfo.cs
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.dll
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\refint\LineComp.dll
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.pdb
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\LineComp.genruntimeconfig.cache
+D:\BridgeLabz\LineComp\LineComp\LineComp\obj\Debug\net5.0\ref\LineComp.dll
